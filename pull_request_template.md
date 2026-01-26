@@ -6,6 +6,7 @@ Describe the changes in your PR here.
 ## Change Type
 - [ ] Bug fix
 - [ ] New feature
+- [ ] Migration/Tool/Script
 - [ ] Hygiene (SDLC compliance, CI/CD changes, cleanup, housekeeping)
 
 ## Pre-Merge Checklist:
