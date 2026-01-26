@@ -11,7 +11,7 @@ Describe the changes in your PR here.
 ## Pre-Merge Checklist:
 - [ ] I have performed a self-review of my code
 - [ ] I have added comments supporting less-overt code changes
-- [ ] I have checked if this module differs from the technical specs. _Tag the tech lead if this PR requires a documentation change_
+- [ ] I have checked if these changes differ from established technical documentation. _Tag the tech lead if this PR requires a documentation change_
 
 ## Additional Information
 - [ ] This PR containes AI-generated changes
