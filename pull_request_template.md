@@ -7,6 +7,7 @@ Describe the changes in your PR here.
 - [ ] **Security Fix** (requires immediate attention)
 - [ ] Bug fix
 - [ ] New feature
+- [ ] Configuration changes (yaml, json, etc)
 - [ ] Accessibility improvement
 - [ ] Migration / Tool / Script
 - [ ] Hygiene / Refactor / Technical Debt
