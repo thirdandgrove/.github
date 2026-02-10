@@ -3,7 +3,7 @@ Describe the changes in your PR here.
 
 [Jira issue link](https://thirdandgrove.atlassian.net/jira)
 
-<h2 id="change-type">Change Type (check one or all that apply)</h2>
+## Change Type (check one or all that apply)
 
 - [ ] **Security Fix** (requires immediate attention)
 - [ ] Bug fix
@@ -13,7 +13,7 @@ Describe the changes in your PR here.
 - [ ] Migration / Tool / Script
 - [ ] Refactor / Technical Debt
 
-<h2 id="pre-merge-checklist">Pre-Merge Checklist</h2>
+## Pre-Merge Checklist
 
 - [ ] I've performed a self-review of my code
 - [ ] I've added comments supporting less-overt code changes
@@ -23,9 +23,9 @@ Describe the changes in your PR here.
 - [ ] I've updated the README appropriately (if applicable)
 - [ ] I've checked if these changes differ from established technical documentation. _Tag the tech lead if this PR requires a documentation change_
 
-<h2 id="ai-usage">AI Usage</h2>
+## AI Usage
 
-Check all that apply. If AI wasn't used, leave a short explanation under [Description of AI Usage](#ai-usage-description) below detailing why.
+Check all that apply. If AI wasn't used, leave a short explanation under [Description of AI Usage](#description-of-ai-usage) below detailing why.
 
 **How do I know what to choose?**
 
@@ -43,6 +43,6 @@ Check all that apply. If AI wasn't used, leave a short explanation under [Descri
   - [ ] Research
   - [ ] Technical planning or guidance
      
-<h3 id="ai-usage-description">Description of AI Usage</h3>
+### Description of AI Usage
 
 Describe what AI did (or didn't do) for you here. Implemented config changes, generated scripts, scaffolding, troubleshooting, etc.
