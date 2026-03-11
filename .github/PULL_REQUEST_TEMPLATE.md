@@ -39,6 +39,9 @@ Check all that apply. If AI wasn't used, leave a short explanation under [Descri
 - [ ] Copilot
   - [ ] Code Generation
   - [ ] Technical planning or guidance
+- [ ] Claude Code
+  - [ ] Code Generation
+  - [ ] Technical planning or guidance
 - [ ] Gemini
   - [ ] Research
   - [ ] Technical planning or guidance
